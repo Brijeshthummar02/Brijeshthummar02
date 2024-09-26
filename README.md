@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brijeshthummar02&show_icons=true&locale=en" alt="brijeshthummar02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshthummar02&" alt="brijeshthummar02" /></p>
+
+[![An image of @brijeshthummar02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/brijeshthummar02)](https://holopin.io/@brijeshthummar02)
