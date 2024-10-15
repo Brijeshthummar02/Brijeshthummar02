@@ -20,5 +20,7 @@ Hello there! I’m Brijesh Thummar
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Brijeshthummar02&theme=catppuccin_latte&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brijeshthummar02&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![An image of @brijeshthummar02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/brijeshthummar02)](https://holopin.io/@brijeshthummar02)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Brijeshthummar02&limit=5&theme=panda&combine_all_yearly_contributions=true)
