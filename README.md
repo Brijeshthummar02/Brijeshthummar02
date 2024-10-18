@@ -1,4 +1,5 @@
-Hello there! I’m Brijesh Thummar
+Hello there! I’m Brijesh Thummar 
+🌟 Passionate second-year Computer Science student with a knack for coding and a love for open-source contributions. Constantly seeking to learn and grow, I thrive on tackling complex challenges and collaborating with diverse communities. My enthusiasm for technology fuels my drive to innovate and create impactful solutions. Let's connect and build the future together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brijesh-thummar-30103a31a) 
