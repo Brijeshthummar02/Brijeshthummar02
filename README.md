@@ -17,10 +17,41 @@ Hello there! I’m Brijesh Thummar
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Brijeshthummar02&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Brijeshthummar02&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Brijeshthummar02&theme=catppuccin_latte&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brijeshthummar02&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<hr>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brijeshthummar02&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="brijeshthummar02" />
+
+</details>                     
+<br>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+# Github Stats
+
+<!-- ---------------------------------------STATS------------------------------------------
+--------------------------------------------------------------------------------------------- -->
+
+<p align="center">
+   <a>
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brijeshthummar02&theme=dark&hide_border=true"/>
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
+   </a>
+</p>
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brijeshthummar02&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brijeshthummar02&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brijeshthummar02&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brijeshthummar02&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brijeshthummar02&theme=github_dark" />
+</div>
+
 
 [![An image of @brijeshthummar02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/brijeshthummar02)](https://holopin.io/@brijeshthummar02)
 
