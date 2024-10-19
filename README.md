@@ -10,7 +10,7 @@ Hello there! I’m Brijesh Thummar
 
 ---
 
-[![wakatime](https://wakatime.com/badge/user/18cad418-1288-46b3-a938-1a4e75183603/project/54f01579-f601-4c65-beb0-70574a2515b9.svg)](https://wakatime.com/badge/user/18cad418-1288-46b3-a938-1a4e75183603/project/54f01579-f601-4c65-beb0-70574a2515b9)
+![WakaTime Badge](https://wakatime.com/badge/user/18cad418-1288-46b3-a938-1a4e75183603/project/54f01579-f601-4c65-beb0-70574a2515b9.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brijeshthummar02&label=Profile%20views&color=0e75b6&style=flat" alt="brijeshthummar02" /> </p>
 
