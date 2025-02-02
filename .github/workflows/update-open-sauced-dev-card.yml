@@ -3,7 +3,10 @@ name: Update OpenSauced Dev Card
 on:
   schedule:
     - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch: # Allows manual triggering from GitHub Actions UI
+  workflow_dispatch: # Allows manual execution
+
+permissions:
+  contents: write  # Grants write access to repository contents
 
 jobs:
   update-dev-card:
@@ -11,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository (Optional, but useful if needed later)
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Update Dev Card
