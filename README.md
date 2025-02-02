@@ -52,6 +52,7 @@ Hello there! I’m Brijesh Thummar
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brijeshthummar02&theme=github_dark" />
 </div>
 
+[![My OpenSauced Dev Card](./dev-card.png)](https://oss.fyi/brijeshthummar02)
 
 [![An image of @brijeshthummar02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/brijeshthummar02)](https://holopin.io/@brijeshthummar02)
 
