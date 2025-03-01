@@ -1,6 +1,6 @@
 Hello there! I’m Brijesh Thummar 
 
-🌟 Passionate second-year Computer Science student with a knack for coding and a love for open-source contributions. Constantly seeking to learn and grow, I thrive on tackling complex challenges and collaborating with diverse communities. My enthusiasm for technology fuels my drive to innovate and create impactful solutions. Let's connect and build the future together!
+🚀 Passionate 2nd-year CS student exploring Java, Spring Boot, Kubernetes, Docker, AWS, and CI/CD! Active open-source contributor collaborating with big orgs. Sponsoring me fuels my journey to learn, build, and innovate—let’s grow together! 💡✨
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brijesh-thummar-30103a31a) 
