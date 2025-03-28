@@ -52,6 +52,19 @@ Hello there! I’m Brijesh Thummar
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brijeshthummar02&theme=github_dark" />
 </div>
 
+<div align="center">
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=178184249" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=178184249&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Brijeshthummar02" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=178184249&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+</div>
+
 
 [![An image of @brijeshthummar02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/brijeshthummar02)](https://holopin.io/@brijeshthummar02)
 
@@ -70,5 +83,10 @@ Hello there! I’m Brijesh Thummar
   </a>
 </div>
 
-### 🔝 Top Contributed Repo
+<div align="center">
+
+### 🔝 Top Contributed Repo  
 ![](https://github-contributor-stats.vercel.app/api?username=Brijeshthummar02&limit=5&theme=panda&combine_all_yearly_contributions=true)
+
+</div>
+
