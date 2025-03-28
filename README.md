@@ -65,8 +65,13 @@ Hello there! I’m Brijesh Thummar
 
 </div>
 
+<h1 align="center">Hacktoberfest 2024 Badges 🎃</h1>
+
+<div align="center">
 
 [![An image of @brijeshthummar02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/brijeshthummar02)](https://holopin.io/@brijeshthummar02)
+
+</div>
 
 
  <h1 align="center">GSSOC(24) Badges 🪶</h1>
