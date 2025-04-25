@@ -65,6 +65,18 @@ Hello there! I’m Brijesh Thummar
 
 </div>
 
+<div align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=178184249&activity_type=all" target="_blank" style="display: block">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=178184249&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+      <img alt="@Brijeshthummar02's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=178184249&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
+    </picture>
+  </a>
+</div>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+
 <h1 align="center">Hacktoberfest 2024 Badges 🎃</h1>
 
 <div align="center">
