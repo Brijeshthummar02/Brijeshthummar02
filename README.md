@@ -77,7 +77,7 @@ Hello there! I’m Brijesh Thummar
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 
-<h1 align="center">Hacktoberfest 2024 Badges 🎃</h1>
+<h1 align="center">Hacktoberfest X Open Source Badges 🎃</h1>
 
 <div align="center">
 
