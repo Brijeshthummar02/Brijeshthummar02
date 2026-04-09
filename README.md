@@ -51,7 +51,7 @@ Contributions include work on:
 
 Working inside mature projects like Checkstyle requires understanding large codebases, respecting long-standing architectural decisions, and contributing improvements that integrate cleanly with an evolving ecosystem.
 
-Release references  
+Release references **33** times on  **Checkstyle**.  
 https://checkstyle.sourceforge.io/releasenotes.html
 
 ---
