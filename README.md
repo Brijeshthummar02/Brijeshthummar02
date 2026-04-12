@@ -11,6 +11,7 @@ Open Source is where real engineering happens.
 ---
 
 ## Philosophy
+### You don't learn to swim by reading about the ocean!
 
 Open source is where I’ve learned the most about software.
 
