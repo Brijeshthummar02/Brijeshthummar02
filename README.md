@@ -58,7 +58,7 @@ This wasn't a sandbox. This wasn't a beginner-friendly project. The bar was high
 
 And that was exactly what I needed.
 
-My contributions span across **33 official Checkstyle releases.** Thirty-three. My name is in the release notes of a tool that real teams depend on, across more than thirty versions of it. When I first started, I could barely understand the codebase. Now I've shaped it — in small ways, in real ways, across dozens of releases.
+My contributions span across **33 official Checkstyle releases.** . My name is in the release notes of a tool that real teams depend on, across more than thirty versions of it. When I first started, I could barely understand the codebase. Now I've shaped it — in small ways, in real ways, across dozens of releases.
 
 The work covered:
 
