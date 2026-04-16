@@ -83,7 +83,7 @@ Once I knew I could learn anything if I stayed patient long enough, I stopped be
 
 Shell scripts. Docker. Kubernetes. CI/CD pipelines. Spring Boot. GitHub Actions. Distributed systems. Container orchestration. I didn't learn these from courses alone — I learned them by *building*, by *breaking things*, by showing up and refusing to quit when it got hard.
 
-221 repositories. Each one is a chapter. Some are experiments. Some are failures. Some are things I'm genuinely proud of. All of them are proof that I kept going.
+All the Contributions. Each one is a chapter. Some are experiments. Some are failures. Some are things I'm genuinely proud of. All of them are proof that I kept going.
 
 ---
 
