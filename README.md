@@ -92,6 +92,28 @@ longer than any sane person would.
 
 When you chase something that badly - you end up getting it. Every time.
 
+And it wasn't just exams. Projects that went nowhere. Submissions that got 
+rejected. PRs that came back with more comments than code. Proposals that 
+didn't make the cut. I've lost more times than I can count - and not small, 
+quiet losses either.
+
+But here's the thing nobody tells you: losing repeatedly at something you 
+actually care about feels completely different from winning at something you 
+don't. There's this feeling - when you're deep in a codebase at 2am, fixing 
+something that's been broken for weeks, and it finally clicks that feeling 
+is worth every rejection that came before it.
+
+Contributing keeps me alive. Not metaphorically. Actually alive - like this is 
+the thing I was supposed to be doing.
+
+So I keep going. I build my own way through it. And whenever I figure 
+something out the hard way, I try to leave it cleaner, documented better, more 
+welcoming - so the next person who comes in scared and clueless like I was 
+doesn't have to start from zero. They can start from where I left off.
+
+That's the whole point. Chase what actually matters. Build your own road. 
+Then leave the road behind for someone else.
+
 ---
 
 ## Hackathons: 3 wins, 8 finals, 22 participated & 0 regrets.
