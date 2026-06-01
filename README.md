@@ -24,98 +24,103 @@
 
 ---
 
-## 📖 The Story - For Those Who Stay
+## If you're reading this, stay.
 
-I want to tell you something real.
+I'm not going to sell you a story. I'm going to tell you the real one.
 
-When I first opened GitHub, I didn't belong here. I had C — the language that forces you to think in raw memory and pointers, unforgiving and precise. I had basic Java — enough to write a class, maybe a loop, maybe a clumsy OOP exercise. That was the entire arsenal. That was everything I walked in with.
+I started with nothing. Not "a little bit" actually nothing. C and some clumsy Java. No mentor. No seniors pointing me toward open source. No roadmap that said *"this is what you do next."* Just a laptop, a browser, and the kind of stubborn that doesn't know when to quit.
 
-I was a student from Gujarat, India. No senior guiding me. No roadmap. No one pointing at open source and saying *"this is how it's done."* Just curiosity — and a stubborn, quiet refusal to stay where I was.
+The first time I opened a real production codebase, I understood maybe 10% of it. Years of history. Architectural decisions baked in long before I was even aware these tools existed. I read it. Re-read it. Came back the next morning and understood 11%.
 
-The first time I cloned a real production codebase, I understood maybe 10% of what I was looking at. Years of commit history. Architectural decisions made long before I existed. Patterns I had no name for yet. I read, re-read, and came back the next morning to understand 11%.
-
-That 1% every single day — that was the compound interest of growth.
-
-I wasn't fixing critical bugs at first. I was fixing a formatting inconsistency. Improving a doc comment. Making a test slightly cleaner. Things that felt almost embarrassing to submit. But I submitted them anyway — because doing nothing was never an option.
-
-You step into codebases written by people you've never met.
-You try to understand decisions made years ago.
-You follow the reasoning behind design choices, patterns, and trade-offs.
-
-At first it feels completely unfamiliar.
-
-But slowly you begin to see the system as a whole. You start fixing small things. Then improving pieces of the architecture. Then contributing changes that make the project better for everyone who uses it.
-
-Doing this repeatedly teaches something no tutorial ever can — **how real software evolves over time.**
+That 1% a day - that's the whole secret. That's all of it.
 
 ---
 
-### Checkstyle — Where I Learned What Engineering Actually Means
+## Checkstyle didn't welcome me. I made it mine.
 
-The project that changed everything was **[Checkstyle](https://github.com/checkstyle/checkstyle)** — a production-grade static analysis tool that enforces Java code quality in real pipelines used by developers worldwide.
+**[Checkstyle](https://github.com/checkstyle/checkstyle)** is a production static analysis tool running in real CI pipelines for real teams worldwide. It is not beginner friendly. It does not care about your feelings. The reviewers are thorough. The bar is high. And there's no hand-holding.
 
-This wasn't a sandbox. This wasn't a beginner-friendly project. The bar was high. The reviews were thorough. Every PR had to respect architectural decisions made years before I arrived.
+That's exactly why I went there.
 
-And that was exactly what I needed.
+My contributions span **40 official releases.** My name is in the release notes. A tool that developers across the world depend on and some what I've shaped it, across more than fourty versions, starting from a place where I could barely trace the execution flow.
 
-My contributions span across **33 official Checkstyle releases.** . My name is in the release notes of a tool that real teams depend on, across more than thirty versions of it. When I first started, I could barely understand the codebase. Now I've shaped it — in small ways, in real ways, across dozens of releases.
+Here's what I touched:
 
-The work covered:
+- CI pipeline stability - making builds trustworthy instead of unpredictable
+- Indentation & static analysis checks - hunted down formatting violations and check inconsistencies across the codebase, the kind of fixes that seem small until you realize they're everywhere
+- Test infrastructure - real coverage, not the kind that just looks good
+- Cross-platform dev environment fixes - because friction kills contributors
+- Documentation - because a codebase nobody can enter is a codebase dying slowly
+- Code clarity - the boring, essential, quietly important stuff
+- Long-term repo health - the work nobody notices until it's gone
 
-- **CI pipeline reliability** — making builds stable, predictable, and trustworthy
-- **Test infrastructure** — strengthening test coverage, reducing suppressions, making quality measurable
-- **Cross-platform compatibility** — fixing development environment inconsistencies that slowed contributors down
-- **Documentation and onboarding** — because great software is only as good as its ability to welcome new contributors
-- **Code clarity and formatting** — the unglamorous, deeply important work of keeping a large codebase readable
-- **Long-term repository health** — the maintenance no one notices when it's done right, and everyone feels when it's neglected
+What Checkstyle actually taught me wasn't Java or CI. It taught me how real software *lives*. How it absorbs change without collapsing. How engineers fight about trade-offs and both of them are right. How you can respect a decision you didn't make and work within it anyway.
 
-Inside Checkstyle I learned something no course ever teaches: **how mature software lives.** How it breathes through change without breaking. How engineers argue about trade-offs with genuine care for the codebase — not their ego.
+That kind of thinking — no course teaches it. You have to earn it.
 
-That is an education you carry forever.
-
-> 📋 **Release References (33×)** → [checkstyle.sourceforge.io/releasenotes.html](https://checkstyle.sourceforge.io/releasenotes.html)
-
----
-
-### Then I Got Hungry for More
-
-Once I knew I could learn anything if I stayed patient long enough, I stopped being intimidated by unfamiliar territory. I leaned *into* discomfort.
-
-Shell scripts. Docker. Kubernetes. CI/CD pipelines. Spring Boot. GitHub Actions. Distributed systems. Container orchestration. I didn't learn these from courses alone — I learned them by *building*, by *breaking things*, by showing up and refusing to quit when it got hard.
-
-All the Contributions. Each one is a chapter. Some are experiments. Some are failures. Some are things I'm genuinely proud of. All of them are proof that I kept going.
+> 📋 **40 Release References** → [checkstyle.sourceforge.io/releasenotes.html](https://checkstyle.sourceforge.io/releasenotes.html)
 
 ---
 
-### Hackathons: Pressure as a Teacher
+## Once I knew I could learn anything, I stopped being scared of anything.
 
-**3× Winner. 8× Finalist.**
+Here's something real about me, fear doesn't slow me down. It never did. 
+Playing it safe is what breaks me.
 
-Those numbers don't show the full story. They don't show the feature that breaks 30 minutes before the demo. The decision to cut scope without losing the soul of the idea. The feeling of standing in a room presenting something you built from nothing in 24 hours — and meaning every single word of it.
+11th grade. Failed physics. Not scraped through - failed. The subject that's 
+supposed to be the foundation of everything in PCM. Most people would have 
+quietly moved on, kept their head down, aimed for passing marks.
 
-Hackathons taught me to ship. To decide fast. To build something real instead of waiting for perfect. To lose gracefully — and come back sharper.
+I went the other way. I went after physics like it owed me something. 
 
-> *"Every expert was once a beginner. Every pro was once an amateur."*
+12th grade - highest in physics out of all three subjects.
 
-I wrote that for myself as much as anyone.
+That's not a coincidence. That's a pattern I've watched repeat in my own life 
+enough times to trust it completely: the moment something scares me or beats 
+me, if I run *toward* it instead of away — I don't just pass. I dominate it.
+
+So when I hit a technology I didn't understand? I didn't take the beginner 
+course. I picked the hardest problem that required it and figured it out 
+mid-fall.
+
+Shell scripts. Docker. Kubernetes. Spring Boot. GitHub Actions. CI/CD from 
+scratch. Distributed systems. Container orchestration.
+
+Not from videos. From breaking things. From shipping something that didn't 
+work, understanding exactly why, and going again. From staying in the problem 
+longer than any sane person would.
+
+When you chase something that badly - you end up getting it. Every time.
 
 ---
 
-### What Open Source Actually Teaches
+## Hackathons: 3 wins, 8 finals, 22 participated & 0 regrets.
 
-No course, no bootcamp, no tutorial teaches you this.
+Those numbers don't tell you about the feature that breaks 30 minutes before the demo. They don't tell you what it feels like to cut your entire backend 2 hours in and start fresh because you made the wrong call. Or what it means to stand in front of judges presenting something you built from zero - and meaning every word of it.
 
-When you contribute to open source, you're entering a conversation that started before you arrived and will continue long after you leave. You're understanding constraints you didn't create. You're respecting decisions you might have made differently. You're improving something that doesn't belong to you — for the benefit of people you'll never meet.
+Hackathons taught me to *ship*. To decide fast with incomplete information. To build something real instead of waiting for perfect conditions that never come. To lose and come back with sharper instincts.
 
-That changes how you think. Permanently.
+Every one of those finals made me better. Even the ones I walked away from empty handed.
 
-It made me a better engineer. A better collaborator. More patient with complexity. More humble about what I don't know. And more hungry — always — to learn.
+---
+
+## What open source actually gives you.
+
+When you contribute to a real project, you step into a conversation that started before you arrived and will continue after you leave. You understand constraints you didn't create. You respect decisions you might have made differently. You improve something that isn't yours - for people you'll never meet.
+
+It changes the way you think. Permanently.
+
+It made me more patient with complexity. More honest about what I don't know yet. More curious instead of overwhelmed. And hungrier - always hungrier - to understand one more thing.
+
+<div align="center">
 
 **Open source is where real engineering happens.**
 
-Not a tagline. The truest thing I know.
+Not a slogan. The truest thing I know.
+</div>
 
 ---
+
 ## GitHub Statistics
 
 <p align="center">
