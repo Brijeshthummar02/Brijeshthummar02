@@ -178,6 +178,6 @@ Not a slogan. The truest thing I know.
 
 <div align="center">
 
-**Building in the open · One commit at a time**
+**Life is not about finding yourself but creating yourself.**
 
 </div>
